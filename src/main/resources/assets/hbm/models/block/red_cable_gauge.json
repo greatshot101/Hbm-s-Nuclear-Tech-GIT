@@ -1,8 +1,0 @@
-{
-	"parent": "block/orientable",
-	"textures": {
-		"top": "hbm:blocks/concrete_tile",
-		"front": "hbm:blocks/red_cable_gauge_front",
-		"side": "hbm:blocks/concrete_tile"
-	}
-}
